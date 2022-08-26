@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://agungyudho-dev.github.io/publii-test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://agungyudho-dev.github.io/publii-test/</loc>
+</url>
+<url>
+<loc>https://agungyudho-dev.github.io/publii-test/welcome/</loc>
+<lastmod>2022-08-27T02:09:45+07:00</lastmod>
+<image:image>
+<image:loc>https://agungyudho-dev.github.io/publii-test/media/posts/1/955b87ea849a567.jpg_wh300.jpg</image:loc>
+<image:title><![CDATA[banner]]></image:title>
+</image:image>
+</url>
+</urlset>
