@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "gudut5",
+    "description": "",
+    "home_page_url": "https://agungyudho-dev.github.io/publii-test",
+    "feed_url": "https://agungyudho-dev.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yudha"
+    },
+    "items": [
+        {
+            "id": "https://agungyudho-dev.github.io/publii-test/welcome.html",
+            "url": "https://agungyudho-dev.github.io/publii-test/welcome.html",
+            "title": "Welcome",
+            "summary": "This is first page!",
+            "content_html": "<p>This is first page!</p>",
+            "author": {
+                "name": "yudha"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-27T01:13:39+07:00",
+            "date_modified": "2022-08-27T01:13:39+07:00"
+        }
+    ]
+}
