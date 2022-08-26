@@ -3,7 +3,7 @@
     <title>gudut5</title>
     <link href="https://agungyudho-dev.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://agungyudho-dev.github.io/publii-test" />
-    <updated>2022-08-27T01:13:39+07:00</updated>
+    <updated>2022-08-27T01:34:31+07:00</updated>
     <author>
         <name>yudha</name>
     </author>
@@ -14,17 +14,19 @@
         <author>
             <name>yudha</name>
         </author>
-        <link href="https://agungyudho-dev.github.io/publii-test/welcome.html"/>
-        <id>https://agungyudho-dev.github.io/publii-test/welcome.html</id>
+        <link href="https://agungyudho-dev.github.io/publii-test/welcome/"/>
+        <id>https://agungyudho-dev.github.io/publii-test/welcome/</id>
 
-        <updated>2022-08-27T01:13:39+07:00</updated>
+        <updated>2022-08-27T01:34:31+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://agungyudho-dev.github.io/publii-test/media/posts/1/955b87ea849a567.jpg_wh300.jpg" alt="banner" />
                     This is first page!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://agungyudho-dev.github.io/publii-test/media/posts/1/955b87ea849a567.jpg_wh300.jpg" alt="banner" />
                 <p>This is first page!</p>
             ]]>
         </content>

@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://agungyudho-dev.github.io/publii-test/sitemap.xml
+Disallow: /

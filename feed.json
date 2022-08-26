@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://agungyudho-dev.github.io/publii-test/welcome.html",
-            "url": "https://agungyudho-dev.github.io/publii-test/welcome.html",
+            "id": "https://agungyudho-dev.github.io/publii-test/welcome/",
+            "url": "https://agungyudho-dev.github.io/publii-test/welcome/",
             "title": "Welcome",
             "summary": "This is first page!",
             "content_html": "<p>This is first page!</p>",
+            "image": "https://agungyudho-dev.github.io/publii-test/media/posts/1/955b87ea849a567.jpg_wh300.jpg",
             "author": {
                 "name": "yudha"
             },
             "tags": [
             ],
             "date_published": "2022-08-27T01:13:39+07:00",
-            "date_modified": "2022-08-27T01:13:39+07:00"
+            "date_modified": "2022-08-27T01:34:31+07:00"
         }
     ]
 }
